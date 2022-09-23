@@ -1,0 +1,3 @@
+--waypoint tp (not mine)
+
+for a,b in next,getgc()do if getinfo(b).numparams==9 and getinfo(b).nups==10 then local c;c=hookfunction(b,function(d,e,...)if d=="CustomWaypoint"and typeof(e)=="Vector3"and game.Players.LocalPlayer.Character and game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")then game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(e)end;return c(d,e,...)end)end end
