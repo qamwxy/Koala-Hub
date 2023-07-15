@@ -1,12 +1,21 @@
-That hub in Super Pre-Early development.
-if you have any questions, suggestions or you find a bug, join to Coala Hub discord channel: https://discord.gg/A7PmYTnr4Q
-(Most of scripts not mine)
+#Closed Forever, This Hub Will Not Gonna receive any update from 7/15/2023
+
+
+
+
+
+That hub is in Pre-Early development.
+
+(Most of scripts are not mine)
 
 -How to use Koala Hub?
--First you need a executor, i recommend use paid executors, because in free executors you will need a key every 24h/48h. 
--What free executor best? 
--Krnl (Runs ~90% of scripts, but updating too long and have 24h key system). 
--What paid executors best?
--Synapse (Most recommend, runs all scripts, keyless, cost 15-20$ (15$ only with crypto)), Sentinel (Runs ~95% of scripts, keyless, cost 15$). (i not recommend because: others exploit not popular | updating too long | just closed)
--Can i use my own executor?
--Yes, but if you not designer it will look so ugly.
+-First you need an executor, I recommend to use paid executors, because in free ones you will need a key every 24h/48h. 
+
+-Which free executor is the best? 
+-Krnl (Runs ~90% of scripts, but updates too long and got 24h key system). 
+
+-Which paid executor is the best?
+-Synapse (I recommend it, runs all scripts, keyless, costs 15-20$ (15$ only with crypto)), Sentinel (Runs ~95% of scripts, keyless, cost 15$). (I don't recommend because: others other exploits are not popular | updating too long | just closed)
+
+-Can I use my own executor?
+-Yes
